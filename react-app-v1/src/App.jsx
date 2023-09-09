@@ -1,8 +1,11 @@
 import React from 'react'
+import Template1 from './pages/Template1/Template1'
 
 function App() {
   return (
-    <div>App</div>
+    <>
+      <Template1 />
+    </>
   )
 }
 
